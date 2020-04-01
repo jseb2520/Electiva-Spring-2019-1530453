@@ -1,0 +1,6 @@
+# SYSTEM JUNK
+codealike.json
+.DS_Store
+
+# C EXECUTABLES 
+mpiExample1/mpiExample1
